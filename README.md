@@ -1,2 +1,12 @@
-# React_auth_project
-React  project covering Redux, hooks, API integration, and state management concepts
+
+# React auth Page
+
+Simple login page built using:
+- React
+- useState hook
+- Basic form validation
+
+Features:
+- Controlled inputs
+- Form validation
+- Clean UI
